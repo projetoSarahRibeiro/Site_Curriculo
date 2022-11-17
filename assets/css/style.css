@@ -32,7 +32,7 @@ h6 {
 }
 
 h2 {
-  color: #292929;
+  color: 	#00008B;
   font-weight: 600;
 }
 
@@ -61,12 +61,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #00008B	;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #00008B	;
   color: #fff;
 }
 
@@ -136,7 +136,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #00008B	;
 }
 
 .mb-30 {
@@ -157,7 +157,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #b8a07e;
+  background: #00008B	;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -269,7 +269,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #b8a07e;
+  color: #00008B	;
 }
 
 .navbar .dropdown ul {
@@ -303,7 +303,7 @@ p {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #b8a07e;
+  color: #00008B	;
 }
 
 .navbar .dropdown:hover>ul {
@@ -402,7 +402,7 @@ p {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #b8a07e;
+  color: #00008B	;
 }
 
 .navbar-mobile .getstarted,
@@ -437,7 +437,7 @@ p {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #b8a07e;
+  color: #00008B	;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -467,7 +467,7 @@ p {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color:#00008B;
 }
 
 .hero-content p {
@@ -476,7 +476,7 @@ p {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color:#00008B;
   font-weight: 500;
 }
 
@@ -563,7 +563,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid#00008B	;
 }
 
 #about .div-img-bg .about-img img {
@@ -601,7 +601,7 @@ p {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #00008B	;
   letter-spacing: 0.1em;
   font-weight: 500;
   text-transform: uppercase;
@@ -616,7 +616,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #00008B	;
   line-height: 44px;
 }
 
@@ -630,11 +630,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #00008B	;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #00008B	;
 }
 
 /*--------------------------------------------------------------
@@ -669,7 +669,7 @@ p {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color:#00008B	;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -712,12 +712,12 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #00008B	;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color:#00008B	;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -750,11 +750,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #00008B	;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #00008B	;
 }
 
 .portfolio-details .portfolio-info {
@@ -836,12 +836,12 @@ p {
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
-  color: #292929;
+  color: 	#00008B;
   transition: all 0.5s ease-in-out 0s;
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #00008B	;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -991,7 +991,7 @@ p {
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #00008B	;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1075,7 +1075,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #b8a07e;
+  border-left: 4px solid #00008B	;
 }
 
 /*--------------------------------------------------------------
@@ -1114,7 +1114,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color:#00008B	;
   transition: all 0.5s ease-in-out 0s;
 }
 
