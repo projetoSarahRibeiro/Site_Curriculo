@@ -764,10 +764,10 @@ p {
 
 .portfolio-details .portfolio-info h3 {
   font-size: 22px;
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 5px solid #eee;
 }
 
 .portfolio-details .portfolio-info ul {
@@ -777,7 +777,7 @@ p {
 }
 
 .portfolio-details .portfolio-info ul li+li {
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .portfolio-details .portfolio-description {
